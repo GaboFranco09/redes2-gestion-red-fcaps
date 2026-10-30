@@ -1,0 +1,10 @@
+*.pcap
+*.log
+*_stdout.txt
+ilt_*
+*.backup
+.bash_history
+.ssh/
+*.key
+*.pem
+.env
